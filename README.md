@@ -28,9 +28,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Awesome Books<a name="about-project"></a>
+# 📖 LeaderBoard<a name="about-project"></a>
 
-**Awesome Books** In this project, I build a basic website that allows users to have a simple to-do list using list structure and webpack.
+**leaderboard practice** it is just a pratice of getting info from a API and saving info in the same API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
