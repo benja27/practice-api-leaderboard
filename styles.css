@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    margin: 0 !important;
+    padding: 0;
+}
+
+.check,
+.check *{    
+    border: 1px solid;
+}
+
+.score:nth-child(odd){
+    background-color: #ddd;
+}
